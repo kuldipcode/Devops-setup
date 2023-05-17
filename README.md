@@ -1,4 +1,4 @@
-# Devops-setup
+# Devops-setup https://medium.com/@KuldipkumarPrajapati/vm-steps-5bbf8af414d0
 
 1. get static IP
 1. Create VM by choosing image, size, region and naming.
